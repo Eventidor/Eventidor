@@ -36,4 +36,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🧑🏻‍💻 Hacking 
-![Kali Linux](https://img.shields.io/badge/Cybersecurity-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Cybersecurity-Arch_Linux-557C94?style=for-the-badge&logo=archlinux&logoColor=white)
