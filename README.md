@@ -37,4 +37,3 @@
 
 ## 🧑🏻‍💻 Hacking 
 ![Kali Linux](https://img.shields.io/badge/Cybersecurity-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
