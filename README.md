@@ -33,4 +33,4 @@
 
 ### 🐧 OS (Shells)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://www.svgrepo.com/show/303144/windows-10-logo.svg)
+![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png)
