@@ -3,9 +3,7 @@
 - 👀 I’m interested in Cyber Security , Programming
 - 🌱 I’m currently learning Computer Engineering Diploma 
 - 🎯 I’m looking to continue as job and learning many skill to elevate my knowleadge . 
-- 📫 How to reach me khatrifarhan65@gmail.com
-
-  
+- 📫 How to reach me khatrifarhan65@gmail.com , khatrifarhan@proton.me
 ## 🚀 Tech Stack
 
 ### 💻 Languages
