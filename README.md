@@ -1,4 +1,4 @@
-<h1><b><i>ℍ𝕚 𝕀'𝕞 𝔽𝕒𝕣𝕙𝕒𝕟 𝕂𝕙𝕒𝕥𝕣𝕚 </i></b></h1>
+<h1><b><i>ℍ𝕚 𝕀'𝕞 𝔽𝕒𝕣𝕙𝕒𝕟 𝕂𝕙𝕒𝕥𝕣𝕚</i></b></h1>
   
 - 👀 I’m interested in Cyber Security , Programming
 - 🌱 I’m currently in Computer Engineering Diploma 
